@@ -1,3 +1,6 @@
 {
-    "product": []
+    "product": [
+        "id" : 1,
+        "name" : "mohammad"
+     ]
 }
